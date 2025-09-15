@@ -49,13 +49,4 @@ To build a trusted ecosystem where every AI model is transparent, verifiable, an
 - [IPFS CLI](https://docs.ipfs.tech/install/)  
 
 ### Installation
-bash
-# Clone the repository
-git clone https://github.com/yourusername/veriai.git
-
-# Navigate into the folder
-cd veriai
-
-
-# Install dependencies
-npm install
+-- in progress
